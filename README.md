@@ -24,8 +24,8 @@ It combines PostgreSQL (Supabase) for data modeling and Power  for dashboard vis
    - `kpi_cards.sql` → Script for 5 dashboard KPI cards.  
    - `engagement_charts.sql` → Queries for visuals (usage by tool, grade, performance).  
 - `assets/` → Project visuals and diagrams:
-   - 'dashboard_cover.jpg` → Screenshot of the Power BI dashboard.
-   - 'erd_edtech.jpg' → Entity Relationship Diagram (ERD) of the EdTech database schema.  
+   - `dashboard_cover.png` → Screenshot of the Power BI dashboard.  
+   - `erd_edtech.png` → Entity Relationship Diagram (ERD) of the EdTech database schema.  
   
 
 ---
