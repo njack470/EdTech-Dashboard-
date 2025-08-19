@@ -19,11 +19,14 @@ It combines PostgreSQL (Supabase) for data modeling and Power  for dashboard vis
 - `record_level_export.csv` → Exported dataset from the `analytics.v_usage_enriched` view.  
 - `EdTech_Dashboard.pbix` → Power BI report file (download to explore locally).  
 - `sql/` folder → All SQL scripts used in the project:  
-- `create_tables.sql` → Creates base tables + unified analysis view.  
-- `insert_data.sql` → Seeds synthetic demo data (100 students, random usage).     
-- `kpi_cards.sql` → Script for 5 dashboard KPI cards.  
-- `engagement_charts.sql` → Queries for visuals (usage by tool, grade, performance).  
-- `assets/dashboard_cover.png` → Screenshot of the Power BI dashboard.
+   - `create_tables.sql` → Creates base tables + unified analysis view.  
+   - `insert_data.sql` → Seeds synthetic demo data (100 students, random usage).     
+   - `kpi_cards.sql` → Script for 5 dashboard KPI cards.  
+   - `engagement_charts.sql` → Queries for visuals (usage by tool, grade, performance).  
+- `assets/` → Project visuals and diagrams:
+   - 'dashboard_cover.jpg` → Screenshot of the Power BI dashboard.
+   - 'erd_edtech.jpg' → Entity Relationship Diagram (ERD) of the EdTech database schema.  
+  
 
 ---
 
