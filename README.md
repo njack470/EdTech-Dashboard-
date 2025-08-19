@@ -7,7 +7,8 @@ It combines PostgreSQL (Supabase) for data modeling and Power  for dashboard vis
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](assets/dashboard_cover.png)
+![Dashboard Screenshot] (assets/dashboard_cover.png)
+
 
 [View Interactive Dashboard on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMzQwNzBiOWQtMzA0Yi00MzRlLTk1MTItOTZjOGM1ZjIyN2M4IiwidCI6IjJjNWVlNjM4LWE5NjMtNDljMC1hYzI2LTgyOGRkOWI3OGQ1ZSIsImMiOjR9)
 
