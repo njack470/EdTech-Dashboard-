@@ -2,7 +2,7 @@
 
 ## 📝 Executive Summary  
 
-This project analyzes how the use of EdTech tools (Google Classroom, Kahoot, and Nearpod) influences student engagement, performance, and feedback**. Using PostgreSQL (Supabase) for data modeling and Power BI for visualization, I developed a dashboard that helps school administrators understand where digital learning is effective and where gaps exist.  
+This project analyzes how the use of EdTech tools (Google Classroom, Kahoot, and Nearpod) influences student engagement, performance, and feedback. Using PostgreSQL (Supabase) for data modeling and Power BI for visualization, I developed a dashboard that helps school administrators understand where digital learning is effective and where gaps exist.  
 
 The analysis found that:  
 - Avg Daily Usage = 66 min
@@ -12,10 +12,21 @@ The analysis found that:
 - Grades 9–11 most engaged
 - Google Classroom strongest all-around tool
 
-**Recommendations include:** prioritizing Google Classroom as the core platform, targeting low-engagement students through teacher support and training, leveraging Kahoot strategically for engagement bursts, and focusing resources on boosting usage among younger grades. Schools should also track clear KPIs — aiming for ≥70% of students in the high-engagement band and feedback scores of ≥4.2/5.  
+Recommendations include prioritizing Google Classroom as the core platform, targeting low-engagement students through teacher support and training, leveraging Kahoot strategically for engagement bursts, and focusing resources on boosting usage among younger grades. 
 
 ## Business Problem
 School administrators are investing heavily in EdTech tools (Google Classroom, Kahoot, Nearpod), but it’s unclear which tools drive engagement, improve performance, and earn positive student feedback.
+ 
+---
+
+## Dashboard Preview
+
+![Dashboard Screenshot](assets/dashboard_cover.jpg)
+
+
+[View Interactive Dashboard on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMzQwNzBiOWQtMzA0Yi00MzRlLTk1MTItOTZjOGM1ZjIyN2M4IiwidCI6IjJjNWVlNjM4LWE5NjMtNDljMC1hYzI2LTgyOGRkOWI3OGQ1ZSIsImMiOjR9)
+
+---
 
 ## Results
 - Students average 66 minutes of daily EdTech usage, with 57% meeting the high engagement benchmark (≥60 minutes).  
@@ -37,30 +48,16 @@ To build on these findings, schools and administrators should consider:
 
 1. **Monitor KPIs Over Time**  
    - Track high-engagement % and feedback scores each semester to measure progress against targets (≥70% engagement, ≥4.2/5 feedback).  
-
 2. **Run Pilot Programs**  
    - Test focused interventions (e.g., targeted support for Grades 4–7, structured Kahoot review sessions) and measure their impact on performance.  
-
 3. **Expand Data Sources**  
    - Integrate attendance, demographic, or subject-specific performance data to uncover deeper drivers of engagement.  
-
 4. **Teacher Training & Adoption**  
    - Provide professional development so instructors can better integrate EdTech tools into lessons, especially in younger grades.  
-
 5. **Iterate Dashboard & Insights**  
-   - Add trend analysis (semester-over-semester comparisons) and predictive models to forecast engagement and performance outcomes.  
- 
----
-
-## Dashboard Preview
-
-![Dashboard Screenshot](assets/dashboard_cover.jpg)
-
-
-[View Interactive Dashboard on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMzQwNzBiOWQtMzA0Yi00MzRlLTk1MTItOTZjOGM1ZjIyN2M4IiwidCI6IjJjNWVlNjM4LWE5NjMtNDljMC1hYzI2LTgyOGRkOWI3OGQ1ZSIsImMiOjR9)
-
----
-
+   - Add trend analysis (semester-over-semester comparisons) and predictive models to forecast engagement and performance outcomes.
+     
+ ---
 
 ## Repository Contents
 
