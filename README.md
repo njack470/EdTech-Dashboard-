@@ -1,6 +1,6 @@
 # EdTech Usage & Student Performance Dashboard
 
-## 📝 Executive Summary  
+## Executive Summary  
 
 This project analyzes how the use of EdTech tools (Google Classroom, Kahoot, and Nearpod) influences student engagement, performance, and feedback. Using PostgreSQL (Supabase) for data modeling and Power BI for visualization, I developed a dashboard that helps school administrators understand where digital learning is effective and where gaps exist.  
 
